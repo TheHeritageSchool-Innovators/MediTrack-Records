@@ -52,7 +52,7 @@ def appointments():
                 global appointment_id
                 appointment_id += 1
                 print(f"""
-                
+
 Congratulations!!!
 Your Booking for {booking_time} is Successful!!
 Patient ID - {pid}
@@ -120,7 +120,7 @@ def write_disease_symptoms(pid, symptoms, disease, mylist):
 def main():
     print("""
 
-#################### Welcome to Dr. Ashish Kumar's Clinic!!! ####################
+#################### Welcome to the XYZ Hospital!!! ####################
 
 Are you a Doctor(D) or Patient(P)?""", end=" ")
     identity = input()
