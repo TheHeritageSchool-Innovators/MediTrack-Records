@@ -1,7 +1,7 @@
 ######################################################################################################################
 #
-# MediTrack Records
-# By The Heritage School, Kolkata
+# Project Name - MediTrack Records
+# School - The Heritage School, Kolkata
 # Team - Innovators
 # Participants - Divyansh Garg and Devansh Jain
 #
